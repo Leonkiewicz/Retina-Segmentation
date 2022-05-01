@@ -1,6 +1,7 @@
 # Retina-Segmentation
 
 The code in this repository implements the UNet Architecture in PyTorch to perform the semantic segmentation on the Digital Retinal Images for Vessel Extraction dataset.
+![unet](https://user-images.githubusercontent.com/64259364/166144011-fac5080a-8e02-4c35-920b-0f549476de99.png)
 
 
 # Dataset
